@@ -22,12 +22,3 @@ The algorithms were tested on selected optimization functions:
 - Griewank
 
 ---
-
-## Requirements
-
-Install required libraries:
-
-```bash
-pip install numpy matplotlib
-pip install numpy numpy
-pip install numpy time
